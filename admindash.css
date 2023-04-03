@@ -28,6 +28,7 @@ nav {
 
 li>h1 {
     font-size: clamp(20px, 3.5vw, 30px);
+    align-self: center;
 }
 
 ul {
